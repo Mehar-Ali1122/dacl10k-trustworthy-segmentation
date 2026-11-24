@@ -1,0 +1,13 @@
+# Data and large outputs are not part of the repository
+dacl10k/
+dacl10k_project/
+*.zip
+*.pt
+*.pth
+*.npz
+*.npy
+runs/
+checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
