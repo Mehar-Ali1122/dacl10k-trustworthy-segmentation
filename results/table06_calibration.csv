@@ -1,0 +1,9 @@
+Method,Calibration,mIoU,ECE,ECE (active),Brier,NLL
+Single model,None,0.444,0.0080,0.2955,0.0111,0.0518
+Single model,Temperature scaling,0.444,0.0056,0.1599,0.0107,0.0415
+MC dropout,None,0.445,0.0076,0.2737,0.0110,0.0494
+MC dropout,Temperature scaling,0.445,0.0055,0.1507,0.0107,0.0413
+Test-time augmentation,None,0.447,0.0075,0.2634,0.0108,0.0493
+Test-time augmentation,Temperature scaling,0.447,0.0056,0.1474,0.0105,0.0407
+Deep ensemble,None,0.453,0.0049,0.1874,0.0100,0.0417
+Deep ensemble,Temperature scaling,0.453,0.0042,0.1270,0.0100,0.0378

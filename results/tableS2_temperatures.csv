@@ -1,0 +1,20 @@
+Class,Single model,MC dropout,Test-time augmentation,Deep ensemble
+Crack,1.68,1.59,1.64,1.51
+Alligator crack,1.31,1.23,1.27,1.09
+Wet spot,2.05,1.91,1.99,1.69
+Efflorescence,1.93,1.79,1.85,1.64
+Rust,1.87,1.74,1.81,1.66
+Rock pocket,2.02,1.90,1.97,1.49
+Hollow area,1.68,1.55,1.63,1.45
+Cavity,1.39,1.31,1.34,0.98
+Spalling,1.69,1.59,1.65,1.47
+Graffiti,1.85,1.74,1.83,1.62
+Weathering,1.83,1.73,1.76,1.28
+Residual formwork,1.88,1.78,1.83,1.71
+Exposed rebars,1.62,1.56,1.60,1.53
+Bearing,2.06,1.96,1.98,1.76
+Expansion joint,1.78,1.65,1.70,1.38
+Drainage,1.85,1.75,1.75,1.48
+Protective equipment,1.94,1.83,1.79,1.70
+Joint tape,1.81,1.70,1.77,1.65
+Washouts/concrete corrosion,1.41,1.33,1.39,1.08

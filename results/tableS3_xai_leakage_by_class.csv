@@ -1,0 +1,8 @@
+Class,Images,Seg-Grad-CAM,Occlusion
+Alligator crack,6,0.161,0.537
+Crack,6,0.004,0.830
+Rock pocket,6,0.000,0.891
+Spalling,6,0.041,0.785
+Washouts/concrete corrosion,5,0.004,0.778
+Weathering,5,0.000,0.703
+Wet spot,6,0.000,0.624

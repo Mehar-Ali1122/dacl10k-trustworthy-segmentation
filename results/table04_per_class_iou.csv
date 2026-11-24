@@ -1,0 +1,21 @@
+Class,FPN (EfficientNet-B4),SegFormer-B2,DINOv2-B + LoRA,DINOv2-B (full fine-tuning)
+Protective equipment,0.684,0.716,0.725,0.680
+Bearing,0.647,0.678,0.704,0.637
+Drainage,0.584,0.584,0.660,0.491
+Graffiti,0.569,0.609,0.633,0.585
+Hollow area,0.525,0.543,0.630,0.543
+Expansion joint,0.495,0.527,0.630,0.544
+Alligator crack,0.480,0.511,0.503,0.419
+Rust,0.409,0.439,0.457,0.428
+Spalling,0.400,0.422,0.456,0.389
+Weathering,0.394,0.410,0.416,0.396
+Exposed rebars,0.392,0.413,0.409,0.380
+Joint tape,0.333,0.345,0.387,0.317
+Residual formwork,0.316,0.363,0.386,0.317
+Efflorescence,0.312,0.379,0.392,0.332
+Crack,0.252,0.278,0.260,0.207
+Wet spot,0.205,0.225,0.262,0.219
+Cavity,0.192,0.131,0.163,0.126
+Rock pocket,0.098,0.138,0.145,0.111
+Washouts/concrete corrosion,0.065,0.080,0.081,0.026
+Mean (mIoU),0.387,0.410,0.437,0.376

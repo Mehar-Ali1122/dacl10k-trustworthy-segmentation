@@ -1,0 +1,10 @@
+Method,View,AURC,"Errors found, 5%","Errors found, 10%","Errors found, 20%"
+Single model,Inspector (any class),0.0861,0.149,0.295,0.523
+MC dropout,Inspector (any class),0.0858,0.150,0.295,0.526
+Test-time augmentation,Inspector (any class),0.0855,0.149,0.294,0.528
+Deep ensemble,Inspector (any class),0.0763,0.147,0.289,0.550
+Random review,Inspector (any class),–,0.050,0.100,0.200
+Single model,Per class (mean),0.0026,0.758,0.840,0.903
+MC dropout,Per class (mean),0.0025,0.759,0.843,0.904
+Test-time augmentation,Per class (mean),0.0025,0.773,0.850,0.907
+Deep ensemble,Per class (mean),0.0020,0.794,0.872,0.931

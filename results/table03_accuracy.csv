@@ -1,0 +1,5 @@
+Model,Seeds,Validation mIoU,Test mIoU,Leakage-free test mIoU
+FPN (EfficientNet-B4),3,0.422 ± 0.001,0.387 ± 0.004,0.386 ± 0.004
+SegFormer-B2,3,0.447 ± 0.005,0.410 ± 0.002,0.409 ± 0.002
+DINOv2-B + LoRA,3,0.466 ± 0.006,0.437 ± 0.008,0.436 ± 0.008
+DINOv2-B (full fine-tuning),3,0.416 ± 0.045,0.376 ± 0.041,0.376 ± 0.041

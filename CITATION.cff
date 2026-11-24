@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below and the dacl10k dataset."
+title: "Code for: Beyond accuracy: calibrated uncertainty, faithful explanations and robustness for multi-label bridge damage segmentation on dacl10k"
+type: software
+license: MIT
+authors:
+  - family-names: Ali
+    given-names: Mehar
+    email: alimehron@gmail.com
+    affiliation: "Riphah Institute of Systems Engineering, Riphah International University, Islamabad, Pakistan"
+  - family-names: Nasir
+    given-names: Ummash
+    affiliation: "Structural Design Division, Works Directorate, H-8, Islamabad 44000, Pakistan"
+references:
+  - type: conference-paper
+    title: "dacl10k: Benchmark for semantic bridge damage segmentation"
+    authors:
+      - family-names: Flotzinger
+        given-names: J.
+      - family-names: Rösch
+        given-names: P.J.
+      - family-names: Braml
+        given-names: T.
+    collection-title: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+    year: 2024

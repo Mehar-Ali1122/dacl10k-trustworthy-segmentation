@@ -1,0 +1,4 @@
+Method,Deletion AUC (↓),Insertion AUC (↑),Off-target leakage,"Rank corr., random model (↓)","p, deletion","p, insertion"
+Seg-Grad-CAM,0.038 ± 0.054,0.340 ± 0.294,0.031 ± 0.106,0.010 ± 0.078,< 0.001,< 0.001
+Occlusion,0.043 ± 0.067,0.465 ± 0.285,0.735 ± 0.219,−0.007 ± 0.104,< 0.001,< 0.001
+Random baseline,0.154 ± 0.162,0.150 ± 0.153,0.893 ± 0.161,–,–,–

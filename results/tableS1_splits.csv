@@ -1,0 +1,5 @@
+Subset,Images,Source,Purpose
+Training,"6,241",Official training split (about 90%),Model fitting
+Validation,694,"Official training split (about 10%), grouped by near-duplicates","Early stopping, thresholds, temperature scaling"
+Test,975,Official validation split,Final evaluation
+"Test, leakage-free",969,Test images without a near-duplicate in the training data,Leakage-robust evaluation

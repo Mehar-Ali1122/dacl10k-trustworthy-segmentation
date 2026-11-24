@@ -1,0 +1,14 @@
+Corruption,Severity,mIoU,Total uncertainty,Epistemic uncertainty
+None (clean),0,0.432,0.0174,0.00083
+Gaussian blur,1,0.428,0.0174,0.00081
+Gaussian blur,2,0.406,0.0155,0.00075
+Gaussian blur,3,0.298,0.0148,0.00074
+Gaussian noise,1,0.403,0.0127,0.00064
+Gaussian noise,2,0.373,0.0129,0.00063
+Gaussian noise,3,0.276,0.0139,0.00066
+Low light,1,0.431,0.0166,0.00080
+Low light,2,0.428,0.0156,0.00077
+Low light,3,0.416,0.0133,0.00067
+JPEG compression,1,0.398,0.0162,0.00076
+JPEG compression,2,0.363,0.0166,0.00075
+JPEG compression,3,0.237,0.0172,0.00079

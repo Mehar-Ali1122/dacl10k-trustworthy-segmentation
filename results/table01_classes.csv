@@ -1,0 +1,20 @@
+Label,Class,Group,Train images,Test images,Polygons,Area (%)
+Spalling,Spalling,Concrete defect,"3,262",477,"9,884",2.58
+Crack,Crack,Concrete defect,"1,727",254,"3,626",0.32
+Efflorescence,Efflorescence,Concrete defect,"1,523",206,"3,965",2.08
+Cavity,Cavity,Concrete defect,"1,188",167,"9,271",0.80
+Hollowareas,Hollow area,Concrete defect,"1,097",155,"1,557",2.84
+Restformwork,Residual formwork,Concrete defect,713,133,"1,022",0.30
+ACrack,Alligator crack,Concrete defect,332,42,424,1.42
+Rockpocket,Rock pocket,Concrete defect,311,52,617,0.28
+WConccor,Washouts/concrete corrosion,Concrete defect,265,38,412,0.51
+Rust,Rust,General defect,"3,450",465,"14,720",2.25
+Weathering,Weathering,General defect,"2,704",392,"4,634",13.50
+Wetspot,Wet spot,General defect,965,144,"1,661",2.63
+Graffiti,Graffiti,General defect,795,146,"2,200",2.01
+PEquipment,Protective equipment,Object,"1,319",175,"1,888",4.01
+Drainage,Drainage,Object,"1,030",151,"1,652",0.99
+ExposedRebars,Exposed rebars,Object,773,104,"2,000",0.14
+JTape,Joint tape,Object,767,128,"1,078",0.36
+Bearing,Bearing,Object,730,105,"1,208",1.23
+EJoint,Expansion joint,Object,395,51,506,1.16

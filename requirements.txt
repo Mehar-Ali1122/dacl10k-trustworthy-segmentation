@@ -1,0 +1,23 @@
+# Versions recorded in the final run of the paper (Google Colab, NVIDIA A100).
+# torch was the CUDA 13.0 build (2.14.1+cu130); install the build that matches your CUDA version.
+torch==2.14.1
+segmentation-models-pytorch==0.6.0
+transformers==5.22.1
+peft==0.21.2
+albumentations==2.0.8
+matplotlib==3.10.0
+
+# Versions not recorded (Colab's preinstalled versions at the time were used).
+torchvision
+timm
+imagehash
+python-docx
+huggingface_hub
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+Pillow
+tqdm
+requests

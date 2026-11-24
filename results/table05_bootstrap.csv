@@ -1,0 +1,11 @@
+Comparison,Test set,ΔmIoU,95% CI,p (Holm),Significant
+SegFormer-B2 vs FPN (EfficientNet-B4),Test,+0.023,"[+0.014, +0.033]",< 0.001,Yes
+SegFormer-B2 vs FPN (EfficientNet-B4),Leakage-free test,+0.023,"[+0.014, +0.032]",< 0.001,Yes
+DINOv2-B + LoRA vs FPN (EfficientNet-B4),Test,+0.050,"[+0.040, +0.060]",< 0.001,Yes
+DINOv2-B + LoRA vs FPN (EfficientNet-B4),Leakage-free test,+0.050,"[+0.040, +0.060]",< 0.001,Yes
+DINOv2-B (full fine-tuning) vs FPN (EfficientNet-B4),Test,−0.011,"[−0.023, +0.002]",0.093,No
+DINOv2-B (full fine-tuning) vs FPN (EfficientNet-B4),Leakage-free test,−0.011,"[−0.023, +0.002]",0.102,No
+DINOv2-B + LoRA vs SegFormer-B2,Test,+0.027,"[+0.017, +0.037]",< 0.001,Yes
+DINOv2-B + LoRA vs SegFormer-B2,Leakage-free test,+0.027,"[+0.017, +0.037]",< 0.001,Yes
+DINOv2-B + LoRA vs DINOv2-B (full fine-tuning),Test,+0.061,"[+0.048, +0.073]",< 0.001,Yes
+DINOv2-B + LoRA vs DINOv2-B (full fine-tuning),Leakage-free test,+0.061,"[+0.048, +0.073]",< 0.001,Yes

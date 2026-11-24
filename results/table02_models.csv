@@ -1,0 +1,5 @@
+Model,Pretrained weights,Trained part,Parameters (M),Trainable (M)
+FPN (EfficientNet-B4),ImageNet-1k (supervised),All weights,19.36,19.36
+SegFormer-B2,ImageNet-1k (supervised),All weights,27.37,27.37
+DINOv2-B + LoRA,LVD-142M (self-supervised),LoRA adapters and decoder,88.34,1.76
+DINOv2-B (full fine-tuning),LVD-142M (self-supervised),All weights,87.75,87.75
