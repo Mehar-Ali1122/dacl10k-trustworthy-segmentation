@@ -1,5 +1,7 @@
 # Trustworthy multi-label bridge damage segmentation on dacl10k
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24501005.svg)](https://doi.org/10.5281/zenodo.24501005)
+
 Companion code for the manuscript:
 
 > M. Ali, U. Nasir, *Beyond accuracy: calibrated uncertainty, faithful explanations and robustness for multi-label bridge damage segmentation on dacl10k*. Citation details will be added on publication.
@@ -91,7 +93,7 @@ Package versions recorded in the final run: torch 2.14.1 (CUDA 13.0 build), segm
 
 ## Citation
 
-If you use this code, please cite the paper (details will be added on publication) and the dacl10k dataset. See `CITATION.cff`.
+If you use this code, please cite the archived code release (https://doi.org/10.5281/zenodo.24501005), the paper (details will be added on publication) and the dacl10k dataset. See `CITATION.cff`.
 
 ## Licence
 

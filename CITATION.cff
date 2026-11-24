@@ -2,6 +2,10 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the paper below and the dacl10k dataset."
 title: "Code for: Beyond accuracy: calibrated uncertainty, faithful explanations and robustness for multi-label bridge damage segmentation on dacl10k"
 type: software
+version: v1.0.0
+doi: 10.5281/zenodo.24501005
+date-released: 2026-11-24
+repository-code: "https://github.com/Mehar-Ali1122/dacl10k-trustworthy-segmentation"
 license: MIT
 authors:
   - family-names: Ali
