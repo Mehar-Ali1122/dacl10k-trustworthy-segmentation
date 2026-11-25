@@ -70,7 +70,7 @@ Results are saved to Google Drive under `MyDrive/dacl10k_project/` (`splits/`, `
 | `RUN_E2` | off | CELL 26 | Optional resolution study, not reported in the paper |
 | `RELEASE_GPU_AT_END` | `True` | CELL 38 | Disconnects the runtime when all cells have finished |
 
-**Output numbering.** Tables 1–9 and Figures 1–9 and S1–S3 match the paper. The notebook numbers the supplementary tables S1, S2, S4 and S5; in the paper they are Tables S1, S2, S3 and S4.
+**Output numbering.** Tables 1–9 match the paper. The notebook numbers the supplementary tables S1, S2, S4 and S5; in the paper they are Tables S1, S2, S3 and S4. Figures S1–S3 match the paper. Main figures: the notebook's Figures 2, 3 and 4–9 are the paper's Figures 2, 3 and 5–10; the notebook's Figure 1 (overview) is not used in the paper. Paper Figure 1 (workflow) and Figure 4 (model architecture) are in `docs/`.
 
 ## Experimental settings
 
